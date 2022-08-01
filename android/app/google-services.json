@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821829540981",
+    "firebase_url": "https://ssuet-sport.firebaseio.com",
+    "project_id": "ssuet-sport",
+    "storage_bucket": "ssuet-sport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821829540981:android:5147bbf50b8d7bb2692c3c",
+        "android_client_info": {
+          "package_name": "com.example.ssuet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821829540981-srfbi13hsqjhd79glomd7pgnl9lmjkj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADofu6Y1xiPuKD0A7x3jeaebyE9oYbPEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821829540981-srfbi13hsqjhd79glomd7pgnl9lmjkj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
